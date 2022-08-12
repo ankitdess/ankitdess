@@ -4,8 +4,6 @@ Here are some of the live projects i've worked on :
 
 https://charming-palmier-e52713.netlify.app/
 
-https://plunderandpoach.webflow.io/
-
 https://www.yaya.co/
 
 This is where i push pixels :
