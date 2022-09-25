@@ -10,6 +10,6 @@ This is where i push pixels :
 
 https://dribbble.com/ankitzz
 
-Visit my codepen:
 
-https://codepen.io/ankitdess
+Contact :
+sendtoankitzz@gmail.com
