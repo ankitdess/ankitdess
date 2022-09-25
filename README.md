@@ -2,7 +2,8 @@
 
 Here are some of the live projects i've worked on :
 
-https://charming-palmier-e52713.netlify.app/
+https://magical-salamander-288d59.netlify.app/
+https://www.favcy.com/info/favcyX
 
 This is where i push pixels :
 
