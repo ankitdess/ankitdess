@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some of the live projects i've worked on :
+Latest work :
 
 https://magical-salamander-288d59.netlify.app/
 
