@@ -2,7 +2,7 @@
 
 Latest work :
 
-https://magical-salamander-288d59.netlify.app/
+https://srpc.netlify.app/
 
 https://www.favcy.com/info/favcyX
 
