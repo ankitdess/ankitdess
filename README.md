@@ -2,13 +2,9 @@
 
 Latest work :
 
-https://srpc.netlify.app/
+https://srpcinfra.in/
 
 https://www.favcy.com/info/favcyX
-
-This is where i push pixels :
-
-https://dribbble.com/ankitzz
 
 
 Contact :
